@@ -2,6 +2,6 @@
 
 Section.Welcome();
 
-//Core
+Section.Core();
 
-//End
+Section.End();
